@@ -1,11 +1,15 @@
-# WhatsApp_Chat_Analysis
-<h3>Remark:code in python executed in jupyter-notebook</h3>
-<p style="font-size:18;font-weight:600; color:#1E90FF;text-align:justify;text-justify: initial;font-family:monospace"><font size="4">
-  Things to remember:
-  <ol>
-    <li>Main code file name -> <u>WhatsApp_Chat_Analysis_Jupyter_Only.ipynb</u></li>
-    <li>File containing unwanted hinglish words which will be removed-> stop_hinglish.txt</li>
-    <li>File containing abusive words -> abusive.txt (only targeted words you'll need to add accordingly.)</li>
-    <li>File containing targeted emotion words -> emotion.txt (use the same function for abusive)</li>
-  </ol>
-</font></p>
+# WhatsApp Chat Analysis
+
+📊📱 This repository contains code written in Python for analyzing WhatsApp chat data using Jupyter Notebook.
+
+### Files:
+
+- **Main Code File**: `WhatsApp_Chat_Analysis_Jupyter_Only.ipynb`
+- **File containing unwanted Hinglish words (to be removed)**: `stop_hinglish.txt`
+- **File containing abusive words (targeted)**: `abusive.txt`
+- **File containing targeted emotion words**: `emotion.txt` (Same function as abusive for removal)
+
+### Remarks:
+🔍 The main code file should be executed in Jupyter Notebook environment.
+📝 Ensure to provide the necessary files such as `stop_hinglish.txt`, `abusive.txt`, and `emotion.txt` for effective analysis.
+🚫 Replace the abusive words in `abusive.txt` with the ones you want to target accordingly.
