@@ -10,6 +10,6 @@
 - **File containing targeted emotion words**: `emotion.txt` (Same function as abusive for removal)
 
 ### Remarks:
-🔍 The main code file should be executed in Jupyter Notebook environment.
-📝 Ensure to provide the necessary files such as `stop_hinglish.txt`, `abusive.txt`, and `emotion.txt` for effective analysis.
-🚫 Replace the abusive words in `abusive.txt` with the ones you want to target accordingly.
+🔍 The main code file should be executed in Jupyter Notebook environment. <br>
+📝 Ensure to provide the necessary files such as `stop_hinglish.txt`, `abusive.txt`, and `emotion.txt` for effective analysis. <br>
+🚫 Replace the abusive words in `abusive.txt` with the ones you want to target accordingly.<br>
